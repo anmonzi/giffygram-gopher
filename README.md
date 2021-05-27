@@ -1,61 +1,28 @@
 # Giffygram
 
-For this project, you will be building a web application that lets people post their favorite gifs. Each post can be favorited by other users, and deleted by the original author. Users can also send direct messages to each other, and be notified when they have messages.
+Welcome to Giffygram! This web application is perfect for people who want to share their funny gif finds with their friends on a social media app that supports animated images. The application allows users to post their favorite gifs, favorite other users gifs, delete gifs by original user, send other users direct messages, receive direct messages, and filter posts.
 
-### Starting the API
+### Team Goals
 
-Open a terminal window and go to the `giffygram` directory.
+This was a learning project. Our goals were to practice deconstruction, create documentation of our findings, plan out components, create an ERD and create a wireframe. and reconstructing the web application using HTML, CSS, and JavaScript with API fetch calls.
 
-1. `cd api`
-1. `cp db.json.example giffygram.json`
-1. `json-server giffygram.json`
+### Technologies Used
 
-### Starting the Web Server
+1. Javascript
+2. JSON
+3. HTML
+4. CSS
 
-Open another terminal window and go to the `giffygram` directory.
+## ERD
+![Screen Shot 2021-05-27 at 2 09 03 PM](https://user-images.githubusercontent.com/41700717/119883406-214ea800-bef5-11eb-81f8-dc27f4db96a1.png)
 
-1. `cd src`
-1. `serve`
 
-Use the assets that you created during the deconstruction phase to construct your own working version of Giffygram.
+## Setup
 
-## Using Github
+1. In the terminal, run `git clone git@github.com:nss-day-cohort-48/giffygram-gopher.git`
+2. Move into the folder you just created `cd giffygram-gopher`
 
-### Issue Tickets and Projects
-
-1. Once your team defines all of the features that need to be built for the application, create an Issue for each one.
-1. Create a project for your repository.
-1. Create the following columns in your project
-    * Backlog
-    * Doing
-    * Ready to test
-    * Done
-1. Add each issue to your Backlog column.
-
-Each teammate then drags one issue from the Backlog to the Doing column, and assigns themselves to the issue. You are now accountable for making sure that issue gets done.
-
-You and all of your teammates **share the responsibility** of getting it done. No one works alone. It doesn't matter how many of your teammates you ask for help, as long as you ensure that the issue gets completed during the sprint.
-
-### PR Templates
-
-Create a file named `PULL_REQUEST_TEMPLATE.md` in your repository and place the following content into it. Every new PR you create will have this structure automatically.
-
-```text
-#### Changes Made
-1. Added file `filename` to `directoryname` directory.
-1. Modified file `filename` to include `functionalityname` and functionality.
-​
-#### Steps to Review
-1. Checkout this branch locally.
-    ```
-    git fetch --all
-    git checkout branchname
-    ```
-2. Open a new Terminal tab (⌘T) and navigate to the server directory.
-3. Test app functionality.
-    > Instructions for how reviewer can test functionality, and detailed description of what the expected outcome is.
-    > Example: When user does BLANK, then BLANK should happen.
-4. View code file.
-    > Confirm file modifications are present as indicated above.
-    > Confirm no unused code or extraneous comments exist.
-```
+### Contributors
+1. Cody Jones
+2. Kelly Kessler
+3. Ashton Monzi!
