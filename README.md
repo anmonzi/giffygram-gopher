@@ -4,7 +4,7 @@ Welcome to Giffygram! This web application is perfect for people who want to sha
 
 ### Team Goals
 
-This was a learning project. Our goals were to practice deconstruction, create documentation of our findings, plan out components, create an ERD and create a wireframe. and reconstructing the web application using HTML, CSS, and JavaScript with API fetch calls.
+This was a learning project. Our goals were to practice deconstruction, create documentation of our findings, plan out components, create an ERD and create a wireframe. Then our job was to reconstruct the web application with our findings. 
 
 ### Technologies Used
 
